@@ -1,3 +1,7 @@
+
+
+#code is below
+
 from numpy import *
 
 
@@ -47,3 +51,6 @@ def run():
 
 if __name__ == '__main__':
     run()
+
+""if you are reading this siraj please give me some work with java or
+python  i'll do it for freeee""
