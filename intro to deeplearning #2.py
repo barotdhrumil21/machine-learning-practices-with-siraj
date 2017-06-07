@@ -1,7 +1,3 @@
-
-
-#code is below
-
 from numpy import *
 
 
